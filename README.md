@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### practice
-### open source
+#### practice
+#### open source
+
+![](/docs/sds.svg)
