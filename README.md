@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### _Geralt do_
+<p><em><strong>Geralt do</strong></em></p>
 <p  align="center">
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/P.svg" width=5% leight=5%>
