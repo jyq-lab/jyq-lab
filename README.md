@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋-->
-
 <!--
 **jyq-lab/jyq-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,19 +15,20 @@ Here are some ideas to get you started:
 -->
 <!-- #### practice -->
 
-<div>
+<p>_**Geralt do**_</p>
+<p  align="center">
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/P.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
   <img src="docs/N.svg" width=5% leight=5%>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/S.svg" width=5% leight=5%>
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/U.svg" width=5% leight=5%>
   <img src="docs/R.svg" width=5% leight=5%>
   <img src="docs/C.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
-</div>
+</p>
 
 <!--
 ![](/docs/O.svg)
