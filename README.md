@@ -21,7 +21,7 @@ _**Geralt do**_
   <img src="docs/P.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
   <img src="docs/N.svg" width=5% leight=5%>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/S.svg" width=5% leight=5%>
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/U.svg" width=5% leight=5%>
