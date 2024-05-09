@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋-->
+
 <!--
 **jyq-lab/jyq-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- #### practice -->
 
-<p>_**Geralt do**_</p>
+_**Geralt do**_
 <p  align="center">
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/P.svg" width=5% leight=5%>
@@ -29,16 +29,3 @@ Here are some ideas to get you started:
   <img src="docs/C.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
 </p>
-
-<!--
-![](/docs/O.svg)
-![](/docs/P.svg)
-![](/docs/E.svg)
-![](/docs/N.svg)
-![](/docs/S.svg)
-![](/docs/O.svg)
-![](/docs/U.svg)
-![](/docs/R.svg)
-![](/docs/C.svg)
-![](/docs/E.svg)
--->
