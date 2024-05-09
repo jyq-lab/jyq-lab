@@ -14,7 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### practice
-#### open source
+<!-- #### practice -->
+<img src="docs/O.svg" width=5% leight=5%><img src="docs/P.svg" width=5% leight=5%>
+<img src="docs/E.svg" width=5% leight=5%>
+<img src="docs/N.svg" width=5% leight=5%>
 
-![](/docs/sds.svg)
+<img src="docs/S.svg" width=5% leight=5%> <img src="docs/O.svg" width=5% leight=5%> <img src="docs/U.svg" width=5% leight=5%> <img src="docs/R.svg" width=5% leight=5%>
+<img src="docs/C.svg" width=5% leight=5%>
+<img src="docs/E.svg" width=5% leight=5%>
+
+<!--
+![](/docs/O.svg)
+![](/docs/P.svg)
+![](/docs/E.svg)
+![](/docs/N.svg)
+![](/docs/S.svg)
+![](/docs/O.svg)
+![](/docs/U.svg)
+![](/docs/R.svg)
+![](/docs/C.svg)
+![](/docs/E.svg)
+-->
