@@ -38,19 +38,10 @@ _**Geralt do**_
 </picture>
 -->
 
-<svg width="200" height="250" xmlns="http://www.w3.org/2000/svg">
-  <!-- Draw the tree body -->
-  <polygon points="100,10 40,150 160,150" fill="green"/>
-  <polygon points="100,60 50,180 150,180" fill="green"/>
-  <polygon points="100,110 60,210 140,210" fill="green"/>
-  
-  <!-- Draw the tree stump -->
-  <rect x="90" y="210" width="20" height="30" fill="#8B4513"/>
-  
-  <!-- Draw decorations -->
-  <circle cx="100" cy="60" r="5" fill="yellow"/>
-  <circle cx="80" cy="130" r="5" fill="red"/>
-  <circle cx="120" cy="130" r="5" fill="blue"/>
-  <circle cx="70" cy="180" r="5" fill="yellow"/>
-  <circle cx="130" cy="180" r="5" fill="red"/>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 创建一个圆形 -->
+  <circle cx="50" cy="50" r="10" fill="red">
+    <!-- 使用animate标签创建动画 -->
+    <animate attributeName="cx" from="10" to="90" dur="2s" repeatCount="indefinite" /> 
+  </circle>
 </svg>
