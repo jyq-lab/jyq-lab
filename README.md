@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋-->
+<!-- ### Hi there 👋 -->
 <!--
 **jyq-lab/jyq-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- open source -->
-_**Geralt do**_
-<div>
+<div align="center">
+  <em><strong> Geralt do &nbsp;&nbsp; </strong></em> 
   <img src="docs/O.svg" width=5% leight=5%>
-  <img src="docs/P.svg" width=5% leight=5%>  
+  <img src="docs/P.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
   <img src="docs/N.svg" width=5% leight=5%>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="docs/badge.svg" width=5% leight=5%>
+  &nbsp;&nbsp;
   <img src="docs/S.svg" width=5% leight=5%>
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/U.svg" width=5% leight=5%>
@@ -37,11 +38,3 @@ _**Geralt do**_
   <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
 </picture>
 -->
-
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- 创建一个圆形 -->
-  <circle cx="50" cy="50" r="10" fill="red">
-    <!-- 使用animate标签创建动画 -->
-    <animate attributeName="cx" from="10" to="90" dur="2s" repeatCount="indefinite" /> 
-  </circle>
-</svg>
