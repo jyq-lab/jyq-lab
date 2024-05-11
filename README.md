@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="docs/E.svg" width=5% leight=5%>
 </div>
 
-![]()
+![1](docs/Geralt1.git)
 ![]()
 ![]()
 ![]()
