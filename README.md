@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   <img src="docs/E.svg" width=5% leight=5%>
 </div>
 
-![1](docs/Geralt1.git)
-![]()
-![]()
-![]()
+![1](docs/Geralt1.gif)
+![2](docs/Geralt2.gif)
+![3](docs/Geralt3.gif)
+![4](docs/Geralt4.gif)
 
 <!-- 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
