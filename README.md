@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 ##
+**The world doesn't need a hero, it needs a professional.**
+
 <img src="docs/Geralt1.gif" width=10% leight=10%><img src="docs/Geralt2.gif" width=10% leight=10%><img src="docs/Geralt3.gif" width=10% leight=10%><img src="docs/Geralt4.gif" width=10% leight=10%>
