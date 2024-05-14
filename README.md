@@ -31,12 +31,5 @@ Here are some ideas to get you started:
   <img src="docs/E.svg" width=5% leight=5%>
 </div>
 
+##
 <img src="docs/Geralt1.gif" width=10% leight=10%><img src="docs/Geralt2.gif" width=10% leight=10%><img src="docs/Geralt3.gif" width=10% leight=10%><img src="docs/Geralt4.gif" width=10% leight=10%>
-
-<!-- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
-</picture>
--->
