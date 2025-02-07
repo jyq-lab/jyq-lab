@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <em><strong> Geralt works on &nbsp;&nbsp; </strong></em> 
   <img src="docs/O.svg" width=5% leight=5%>
   <img src="docs/P.svg" width=5% leight=5%>
   <img src="docs/E.svg" width=5% leight=5%>
@@ -35,5 +34,3 @@ Here are some ideas to get you started:
 <div align="center">
   <strong><em>The world doesn't need a hero, it needs a professional.</em></strong>
 <div>
-
-<!-- <img src="docs/Geralt1.gif" width=10% leight=10%><img src="docs/Geralt2.gif" width=10% leight=10%><img src="docs/Geralt3.gif" width=10% leight=10%><img src="docs/Geralt4.gif" width=10% leight=10%> -->
